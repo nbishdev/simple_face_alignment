@@ -1,0 +1,9 @@
+jupyterlab
+matplotlib
+joblib
+torchvision
+scipy
+PyYaml
+pandas
+seaborn
+thop
