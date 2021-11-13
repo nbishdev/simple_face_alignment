@@ -46,7 +46,7 @@ conda create -n face
 ```console
 conda install -n face -c conda-forge dlib
 conda activate face
-pip install -r simple_face_detection/requirements.txt
+pip install -r simple_face_alignment/requirements.txt
 ```
 
 6. Execute JupyterLab
